@@ -1,0 +1,398 @@
+<ServicesTester AppleName="ExtractWords">
+	<AppletParams TextGraphicsType="Latin" RawComponents="false" ShouldExtractTextureRegions="false" ShouldExtractMatrixPrinterRegions="false" FastObjectsExtraction="false" ShouldExtractPorousTextRegions="false"/>
+	<Image FileName="1.jpg:0">
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="6956" WhiteHolesCount="1" HorzStrokesCount="202" VertStrokesCount="205" MaxHorzStrokeLength="92">
+			<Rect Left="18" Top="27" Right="136" Bottom="140"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="14651" WhiteHolesCount="2" HorzStrokesCount="371" VertStrokesCount="348" MaxHorzStrokeLength="95">
+			<Rect Left="292" Top="27" Right="546" Bottom="140"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="197" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="22" MaxHorzStrokeLength="15">
+			<Rect Left="163" Top="34" Right="185" Bottom="55"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="220" WhiteHolesCount="0" HorzStrokesCount="22" VertStrokesCount="23" MaxHorzStrokeLength="16">
+			<Rect Left="242" Top="34" Right="265" Bottom="56"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="356" WhiteHolesCount="0" HorzStrokesCount="34" VertStrokesCount="31" MaxHorzStrokeLength="15">
+			<Rect Left="58" Top="53" Right="96" Bottom="70"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="1210" WhiteHolesCount="1" HorzStrokesCount="77" VertStrokesCount="62" MaxHorzStrokeLength="37">
+			<Rect Left="469" Top="56" Right="506" Bottom="112"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="1034" WhiteHolesCount="1" HorzStrokesCount="97" VertStrokesCount="62" MaxHorzStrokeLength="35">
+			<Rect Left="333" Top="57" Right="368" Bottom="116"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="5" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="3" MaxHorzStrokeLength="3">
+			<Rect Left="76" Top="67" Right="79" Bottom="69"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="555" WhiteHolesCount="1" HorzStrokesCount="61" VertStrokesCount="67" MaxHorzStrokeLength="17">
+			<Rect Left="43" Top="74" Right="111" Bottom="93"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="3" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="63" Top="75" Right="65" Bottom="77"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="4" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="90" Top="75" Right="92" Bottom="77"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="4" WhiteHolesCount="0" HorzStrokesCount="3" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="63" Top="90" Right="65" Bottom="93"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="5" WhiteHolesCount="0" HorzStrokesCount="3" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="90" Top="90" Right="92" Bottom="93"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="339" WhiteHolesCount="0" HorzStrokesCount="32" VertStrokesCount="31" MaxHorzStrokeLength="15">
+			<Rect Left="58" Top="97" Right="96" Bottom="113"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="4" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="76" Top="98" Right="78" Bottom="100"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="227" WhiteHolesCount="0" HorzStrokesCount="23" VertStrokesCount="23" MaxHorzStrokeLength="15">
+			<Rect Left="242" Top="110" Right="265" Bottom="133"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="215" WhiteHolesCount="0" HorzStrokesCount="22" VertStrokesCount="23" MaxHorzStrokeLength="16">
+			<Rect Left="163" Top="111" Right="186" Bottom="133"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="8746" WhiteHolesCount="3" HorzStrokesCount="216" VertStrokesCount="240" MaxHorzStrokeLength="90">
+			<Rect Left="18" Top="159" Right="136" Bottom="273"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="8922" WhiteHolesCount="28" HorzStrokesCount="341" VertStrokesCount="343" MaxHorzStrokeLength="90">
+			<Rect Left="292" Top="159" Right="409" Bottom="273"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="497" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="26">
+			<Rect Left="161" Top="163" Right="192" Bottom="192"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="530" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="27">
+			<Rect Left="236" Top="164" Right="267" Bottom="193"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="263" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="24" MaxHorzStrokeLength="16">
+			<Rect Left="436" Top="166" Right="460" Bottom="190"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="266" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="24" MaxHorzStrokeLength="16">
+			<Rect Left="515" Top="166" Right="539" Bottom="190"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="547" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="27">
+			<Rect Left="236" Top="239" Right="267" Bottom="268"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="45" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="7" MaxHorzStrokeLength="7">
+			<Rect Left="74" Top="240" Right="81" Bottom="247"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="521" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="26">
+			<Rect Left="161" Top="240" Right="192" Bottom="269"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="329" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="25" MaxHorzStrokeLength="22">
+			<Rect Left="436" Top="242" Right="461" Bottom="266"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="329" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="25" MaxHorzStrokeLength="22">
+			<Rect Left="514" Top="242" Right="539" Bottom="266"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="174" WhiteHolesCount="0" HorzStrokesCount="5" VertStrokesCount="48" MaxHorzStrokeLength="48">
+			<Rect Left="53" Top="292" Right="101" Bottom="297"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="15926" WhiteHolesCount="5" HorzStrokesCount="415" VertStrokesCount="423" MaxHorzStrokeLength="97">
+			<Rect Left="292" Top="292" Right="546" Bottom="405"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="229" WhiteHolesCount="0" HorzStrokesCount="22" VertStrokesCount="23" MaxHorzStrokeLength="16">
+			<Rect Left="163" Top="299" Right="186" Bottom="321"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="200" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="22" MaxHorzStrokeLength="15">
+			<Rect Left="242" Top="299" Right="264" Bottom="320"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="267" WhiteHolesCount="0" HorzStrokesCount="27" VertStrokesCount="23" MaxHorzStrokeLength="17">
+			<Rect Left="22" Top="301" Right="45" Bottom="328"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="257" WhiteHolesCount="0" HorzStrokesCount="27" VertStrokesCount="22" MaxHorzStrokeLength="17">
+			<Rect Left="109" Top="301" Right="131" Bottom="328"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="992" WhiteHolesCount="1" HorzStrokesCount="81" VertStrokesCount="80" MaxHorzStrokeLength="42">
+			<Rect Left="329" Top="319" Right="373" Bottom="377"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="253" WhiteHolesCount="0" HorzStrokesCount="27" VertStrokesCount="22" MaxHorzStrokeLength="16">
+			<Rect Left="109" Top="369" Right="131" Bottom="396"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="248" WhiteHolesCount="0" HorzStrokesCount="26" VertStrokesCount="22" MaxHorzStrokeLength="17">
+			<Rect Left="23" Top="370" Right="45" Bottom="396"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="225" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="23" MaxHorzStrokeLength="17">
+			<Rect Left="163" Top="377" Right="186" Bottom="398"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="212" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="22" MaxHorzStrokeLength="16">
+			<Rect Left="242" Top="377" Right="264" Bottom="398"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="181" WhiteHolesCount="0" HorzStrokesCount="5" VertStrokesCount="48" MaxHorzStrokeLength="48">
+			<Rect Left="53" Top="400" Right="101" Bottom="405"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="22657" WhiteHolesCount="13" HorzStrokesCount="620" VertStrokesCount="611" MaxHorzStrokeLength="109">
+			<Rect Left="155" Top="424" Right="546" Bottom="538"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="320" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="29" MaxHorzStrokeLength="22">
+			<Rect Left="98" Top="428" Right="127" Bottom="452"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="310" WhiteHolesCount="0" HorzStrokesCount="23" VertStrokesCount="28" MaxHorzStrokeLength="21">
+			<Rect Left="27" Top="429" Right="55" Bottom="452"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="1487" WhiteHolesCount="1" HorzStrokesCount="80" VertStrokesCount="81" MaxHorzStrokeLength="45">
+			<Rect Left="191" Top="455" Right="236" Bottom="509"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="1722" WhiteHolesCount="4" HorzStrokesCount="79" VertStrokesCount="79" MaxHorzStrokeLength="35">
+			<Rect Left="333" Top="455" Right="368" Bottom="514"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="149" WhiteHolesCount="0" HorzStrokesCount="42" VertStrokesCount="5" MaxHorzStrokeLength="5">
+			<Rect Left="18" Top="460" Right="23" Bottom="502"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="false" BlackCount="142" WhiteHolesCount="0" HorzStrokesCount="42" VertStrokesCount="5" MaxHorzStrokeLength="5">
+			<Rect Left="131" Top="460" Right="136" Bottom="502"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="303" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="28" MaxHorzStrokeLength="20">
+			<Rect Left="99" Top="510" Right="127" Bottom="534"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="false" BlackCount="292" WhiteHolesCount="0" HorzStrokesCount="23" VertStrokesCount="28" MaxHorzStrokeLength="21">
+			<Rect Left="27" Top="511" Right="55" Bottom="534"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="968" WhiteHolesCount="1" HorzStrokesCount="100" VertStrokesCount="101" MaxHorzStrokeLength="30">
+			<Rect Left="188" Top="49" Right="248" Bottom="109"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="false" BlackCount="28" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="8" MaxHorzStrokeLength="5">
+			<Rect Left="214" Top="66" Right="222" Bottom="73"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="false" BlackCount="28" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="7" MaxHorzStrokeLength="5">
+			<Rect Left="210" Top="71" Right="217" Bottom="78"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="false" BlackCount="23" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="7" MaxHorzStrokeLength="4">
+			<Rect Left="205" Top="76" Right="212" Bottom="83"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="false" BlackCount="416" WhiteHolesCount="0" HorzStrokesCount="32" VertStrokesCount="32" MaxHorzStrokeLength="22">
+			<Rect Left="179" Top="90" Right="207" Bottom="118"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="1908" WhiteHolesCount="1" HorzStrokesCount="84" VertStrokesCount="68" MaxHorzStrokeLength="47">
+			<Rect Left="190" Top="181" Right="237" Bottom="246"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="1231" WhiteHolesCount="1" HorzStrokesCount="116" VertStrokesCount="122" MaxHorzStrokeLength="65">
+			<Rect Left="455" Top="181" Right="520" Bottom="245"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="517" WhiteHolesCount="0" HorzStrokesCount="18" VertStrokesCount="37" MaxHorzStrokeLength="37">
+			<Rect Left="469" Top="218" Right="506" Bottom="236"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="1143" WhiteHolesCount="1" HorzStrokesCount="92" VertStrokesCount="92" MaxHorzStrokeLength="38">
+			<Rect Left="194" Top="314" Right="248" Bottom="368"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="1205" WhiteHolesCount="2" HorzStrokesCount="151" VertStrokesCount="127" MaxHorzStrokeLength="21">
+			<Rect Left="37" Top="321" Right="117" Bottom="377"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="33" WhiteHolesCount="0" HorzStrokesCount="11" VertStrokesCount="3" MaxHorzStrokeLength="3">
+			<Rect Left="69" Top="343" Right="72" Bottom="354"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="true" IsVertical="false" BlackCount="27" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="11" MaxHorzStrokeLength="5">
+			<Rect Left="90" Top="352" Right="101" Bottom="359"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="false" BlackCount="332" WhiteHolesCount="1" HorzStrokesCount="40" VertStrokesCount="45" MaxHorzStrokeLength="21">
+			<Rect Left="180" Top="356" Right="206" Bottom="382"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="1063" WhiteHolesCount="0" HorzStrokesCount="71" VertStrokesCount="60" MaxHorzStrokeLength="26">
+			<Rect Left="47" Top="446" Right="107" Bottom="517"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="658" WhiteHolesCount="0" HorzStrokesCount="33" VertStrokesCount="97" MaxHorzStrokeLength="44">
+			<Rect Left="62" Top="446" Right="107" Bottom="479"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="0." IsInverted="true" IsVertical="false" BlackCount="672" WhiteHolesCount="0" HorzStrokesCount="34" VertStrokesCount="100" MaxHorzStrokeLength="45">
+			<Rect Left="47" Top="484" Right="92" Bottom="517"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="15702" WhiteHolesCount="4" HorzStrokesCount="418" VertStrokesCount="445" MaxHorzStrokeLength="92">
+			<Rect Left="18" Top="27" Right="136" Bottom="273"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="149" WhiteHolesCount="0" HorzStrokesCount="42" VertStrokesCount="5" MaxHorzStrokeLength="5">
+			<Rect Left="18" Top="460" Right="23" Bottom="502"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="267" WhiteHolesCount="0" HorzStrokesCount="27" VertStrokesCount="23" MaxHorzStrokeLength="17">
+			<Rect Left="22" Top="301" Right="45" Bottom="328"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="248" WhiteHolesCount="0" HorzStrokesCount="26" VertStrokesCount="22" MaxHorzStrokeLength="17">
+			<Rect Left="23" Top="370" Right="45" Bottom="396"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="310" WhiteHolesCount="0" HorzStrokesCount="23" VertStrokesCount="28" MaxHorzStrokeLength="21">
+			<Rect Left="27" Top="429" Right="55" Bottom="452"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="292" WhiteHolesCount="0" HorzStrokesCount="23" VertStrokesCount="28" MaxHorzStrokeLength="21">
+			<Rect Left="27" Top="511" Right="55" Bottom="534"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="175" WhiteHolesCount="0" HorzStrokesCount="15" VertStrokesCount="17" MaxHorzStrokeLength="17">
+			<Rect Left="43" Top="76" Right="60" Bottom="91"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="174" WhiteHolesCount="0" HorzStrokesCount="5" VertStrokesCount="48" MaxHorzStrokeLength="48">
+			<Rect Left="53" Top="292" Right="101" Bottom="297"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="181" WhiteHolesCount="0" HorzStrokesCount="5" VertStrokesCount="48" MaxHorzStrokeLength="48">
+			<Rect Left="53" Top="400" Right="101" Bottom="405"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="178" WhiteHolesCount="0" HorzStrokesCount="17" VertStrokesCount="16" MaxHorzStrokeLength="15">
+			<Rect Left="58" Top="53" Right="74" Bottom="70"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="171" WhiteHolesCount="0" HorzStrokesCount="16" VertStrokesCount="16" MaxHorzStrokeLength="15">
+			<Rect Left="58" Top="97" Right="74" Bottom="113"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="3" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="63" Top="75" Right="65" Bottom="77"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="4" WhiteHolesCount="0" HorzStrokesCount="3" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="63" Top="90" Right="65" Bottom="93"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="214" WhiteHolesCount="1" HorzStrokesCount="31" VertStrokesCount="33" MaxHorzStrokeLength="15">
+			<Rect Left="66" Top="74" Right="88" Bottom="93"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="45" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="7" MaxHorzStrokeLength="7">
+			<Rect Left="74" Top="240" Right="81" Bottom="247"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="5" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="3" MaxHorzStrokeLength="3">
+			<Rect Left="76" Top="67" Right="79" Bottom="69"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="4" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="76" Top="98" Right="78" Bottom="100"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="178" WhiteHolesCount="0" HorzStrokesCount="17" VertStrokesCount="15" MaxHorzStrokeLength="15">
+			<Rect Left="81" Top="53" Right="96" Bottom="70"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="168" WhiteHolesCount="0" HorzStrokesCount="16" VertStrokesCount="15" MaxHorzStrokeLength="15">
+			<Rect Left="81" Top="97" Right="96" Bottom="113"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="4" WhiteHolesCount="0" HorzStrokesCount="2" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="90" Top="75" Right="92" Bottom="77"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.25" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="5" WhiteHolesCount="0" HorzStrokesCount="3" VertStrokesCount="2" MaxHorzStrokeLength="2">
+			<Rect Left="90" Top="90" Right="92" Bottom="93"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="166" WhiteHolesCount="0" HorzStrokesCount="15" VertStrokesCount="17" MaxHorzStrokeLength="17">
+			<Rect Left="94" Top="76" Right="111" Bottom="91"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="320" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="29" MaxHorzStrokeLength="22">
+			<Rect Left="98" Top="428" Right="127" Bottom="452"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="303" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="28" MaxHorzStrokeLength="20">
+			<Rect Left="99" Top="510" Right="127" Bottom="534"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="257" WhiteHolesCount="0" HorzStrokesCount="27" VertStrokesCount="22" MaxHorzStrokeLength="17">
+			<Rect Left="109" Top="301" Right="131" Bottom="328"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="253" WhiteHolesCount="0" HorzStrokesCount="27" VertStrokesCount="22" MaxHorzStrokeLength="16">
+			<Rect Left="109" Top="369" Right="131" Bottom="396"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="142" WhiteHolesCount="0" HorzStrokesCount="42" VertStrokesCount="5" MaxHorzStrokeLength="5">
+			<Rect Left="131" Top="460" Right="136" Bottom="502"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="6577" WhiteHolesCount="1" HorzStrokesCount="182" VertStrokesCount="183" MaxHorzStrokeLength="93">
+			<Rect Left="155" Top="424" Right="272" Bottom="538"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="497" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="26">
+			<Rect Left="161" Top="163" Right="192" Bottom="192"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="521" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="26">
+			<Rect Left="161" Top="240" Right="192" Bottom="269"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="197" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="22" MaxHorzStrokeLength="15">
+			<Rect Left="163" Top="34" Right="185" Bottom="55"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="215" WhiteHolesCount="0" HorzStrokesCount="22" VertStrokesCount="23" MaxHorzStrokeLength="16">
+			<Rect Left="163" Top="111" Right="186" Bottom="133"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="229" WhiteHolesCount="0" HorzStrokesCount="22" VertStrokesCount="23" MaxHorzStrokeLength="16">
+			<Rect Left="163" Top="299" Right="186" Bottom="321"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="225" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="23" MaxHorzStrokeLength="17">
+			<Rect Left="163" Top="377" Right="186" Bottom="398"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="1487" WhiteHolesCount="1" HorzStrokesCount="80" VertStrokesCount="81" MaxHorzStrokeLength="45">
+			<Rect Left="191" Top="455" Right="236" Bottom="509"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="530" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="27">
+			<Rect Left="236" Top="164" Right="267" Bottom="193"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="547" WhiteHolesCount="0" HorzStrokesCount="29" VertStrokesCount="31" MaxHorzStrokeLength="27">
+			<Rect Left="236" Top="239" Right="267" Bottom="268"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="220" WhiteHolesCount="0" HorzStrokesCount="22" VertStrokesCount="23" MaxHorzStrokeLength="16">
+			<Rect Left="242" Top="34" Right="265" Bottom="56"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="227" WhiteHolesCount="0" HorzStrokesCount="23" VertStrokesCount="23" MaxHorzStrokeLength="15">
+			<Rect Left="242" Top="110" Right="265" Bottom="133"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="200" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="22" MaxHorzStrokeLength="15">
+			<Rect Left="242" Top="299" Right="264" Bottom="320"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="212" WhiteHolesCount="0" HorzStrokesCount="21" VertStrokesCount="22" MaxHorzStrokeLength="16">
+			<Rect Left="242" Top="377" Right="264" Bottom="398"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="30786" WhiteHolesCount="31" HorzStrokesCount="900" VertStrokesCount="871" MaxHorzStrokeLength="95">
+			<Rect Left="292" Top="27" Right="409" Bottom="538"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="992" WhiteHolesCount="1" HorzStrokesCount="81" VertStrokesCount="80" MaxHorzStrokeLength="42">
+			<Rect Left="329" Top="319" Right="373" Bottom="377"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="1034" WhiteHolesCount="1" HorzStrokesCount="97" VertStrokesCount="62" MaxHorzStrokeLength="35">
+			<Rect Left="333" Top="57" Right="368" Bottom="116"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="1722" WhiteHolesCount="4" HorzStrokesCount="79" VertStrokesCount="79" MaxHorzStrokeLength="35">
+			<Rect Left="333" Top="455" Right="368" Bottom="514"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="7465" WhiteHolesCount="1" HorzStrokesCount="185" VertStrokesCount="174" MaxHorzStrokeLength="93">
+			<Rect Left="429" Top="27" Right="546" Bottom="140"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="17328" WhiteHolesCount="15" HorzStrokesCount="480" VertStrokesCount="497" MaxHorzStrokeLength="109">
+			<Rect Left="429" Top="292" Right="546" Bottom="538"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="263" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="24" MaxHorzStrokeLength="16">
+			<Rect Left="436" Top="166" Right="460" Bottom="190"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="329" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="25" MaxHorzStrokeLength="22">
+			<Rect Left="436" Top="242" Right="461" Bottom="266"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="false" IsVertical="true" BlackCount="1210" WhiteHolesCount="1" HorzStrokesCount="77" VertStrokesCount="62" MaxHorzStrokeLength="37">
+			<Rect Left="469" Top="56" Right="506" Bottom="112"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="329" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="25" MaxHorzStrokeLength="22">
+			<Rect Left="514" Top="242" Right="539" Bottom="266"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="false" IsVertical="true" BlackCount="266" WhiteHolesCount="0" HorzStrokesCount="24" VertStrokesCount="24" MaxHorzStrokeLength="16">
+			<Rect Left="515" Top="166" Right="539" Bottom="190"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="1205" WhiteHolesCount="2" HorzStrokesCount="151" VertStrokesCount="127" MaxHorzStrokeLength="21">
+			<Rect Left="37" Top="321" Right="117" Bottom="377"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="2393" WhiteHolesCount="0" HorzStrokesCount="138" VertStrokesCount="257" MaxHorzStrokeLength="45">
+			<Rect Left="47" Top="446" Right="107" Bottom="517"/>
+		</WordFragment>
+		<WordFragment TextQuality="0." PunctuationQuality="1." IsInverted="true" IsVertical="true" BlackCount="33" WhiteHolesCount="0" HorzStrokesCount="11" VertStrokesCount="3" MaxHorzStrokeLength="3">
+			<Rect Left="69" Top="343" Right="72" Bottom="354"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="true" BlackCount="27" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="11" MaxHorzStrokeLength="5">
+			<Rect Left="90" Top="352" Right="101" Bottom="359"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="true" BlackCount="416" WhiteHolesCount="0" HorzStrokesCount="32" VertStrokesCount="32" MaxHorzStrokeLength="22">
+			<Rect Left="179" Top="90" Right="207" Bottom="118"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="332" WhiteHolesCount="1" HorzStrokesCount="40" VertStrokesCount="45" MaxHorzStrokeLength="21">
+			<Rect Left="180" Top="356" Right="206" Bottom="382"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="968" WhiteHolesCount="1" HorzStrokesCount="100" VertStrokesCount="101" MaxHorzStrokeLength="30">
+			<Rect Left="188" Top="49" Right="248" Bottom="109"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="1908" WhiteHolesCount="1" HorzStrokesCount="84" VertStrokesCount="68" MaxHorzStrokeLength="47">
+			<Rect Left="190" Top="181" Right="237" Bottom="246"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="1143" WhiteHolesCount="1" HorzStrokesCount="92" VertStrokesCount="92" MaxHorzStrokeLength="38">
+			<Rect Left="194" Top="314" Right="248" Bottom="368"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="true" BlackCount="23" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="7" MaxHorzStrokeLength="4">
+			<Rect Left="205" Top="76" Right="212" Bottom="83"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="true" BlackCount="28" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="7" MaxHorzStrokeLength="5">
+			<Rect Left="210" Top="71" Right="217" Bottom="78"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="1." IsInverted="true" IsVertical="true" BlackCount="28" WhiteHolesCount="0" HorzStrokesCount="7" VertStrokesCount="8" MaxHorzStrokeLength="5">
+			<Rect Left="214" Top="66" Right="222" Bottom="73"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.5" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="1231" WhiteHolesCount="1" HorzStrokesCount="116" VertStrokesCount="122" MaxHorzStrokeLength="65">
+			<Rect Left="455" Top="181" Right="520" Bottom="245"/>
+		</WordFragment>
+		<WordFragment TextQuality="0.3330078125" PunctuationQuality="0." IsInverted="true" IsVertical="true" BlackCount="517" WhiteHolesCount="0" HorzStrokesCount="18" VertStrokesCount="37" MaxHorzStrokeLength="37">
+			<Rect Left="469" Top="218" Right="506" Bottom="236"/>
+		</WordFragment>
+	</Image>
+</ServicesTester>
